@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Dados brutos (CSVs do Olist — muito grandes para o GitHub)
+data/raw/
+
+# Docker
+postgres_data/
+
+# VS Code
+.vscode/
